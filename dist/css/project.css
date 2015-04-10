@@ -1,0 +1,18 @@
+.align-class {
+  float: right;
+}
+.title-align {
+  float: left;
+}
+.widget .widget-body.medium {
+  height: 100%;
+}
+.btn .btn-default .aligh-class-center {
+  float: center;
+}
+.checkbox .col-xs-4 .font-size {
+  font: large;
+}
+.font-size {
+  font: x-large;
+}
